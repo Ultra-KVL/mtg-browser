@@ -4,7 +4,7 @@ A small node.js project that allows to export scans of your [Magic: The Gatherin
 
 ## Preview
 
-To see the mtg-browser frontend in action, visit the **[MTG Browser Demo Website](https://ultra-kvl.github.io/mtg-browser-demo/)**. The page is showcasing an example output of the `make www` command, using a subset of some of my legacy cards, that was then uploaded to GitHub Pages.
+To see the mtg-browser frontend in action, visit the **[MTG Browser Demo Website](https://shagu.github.io/mtg-browser-demo/)**. The page is showcasing an example output of the `make www` command, using a subset of some of my legacy cards, that was then uploaded to GitHub Pages.
 
 [![preview.jpg](preview.jpg)](https://shagu.github.io/mtg-browser-demo/)
 
