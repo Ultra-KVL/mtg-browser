@@ -1,10 +1,10 @@
 # mtg-browser
 
-A small node.js project that allows to export scans of your [Magic: The Gathering](https://magic.wizards.com) card collection to plain images and a simple and responsive html-site to browse, filter and search for specific cards. One of the goals is, to make it easier to build decks out of your local collection and to keep track of your cards. This is the successor of [delver-export](https://github.com/shagu/delverexport) and a partial rewrite from [Lua](https://www.lua.org) to [Node.js](https://nodejs.org). Please bear with me, you will see many bad coding habits, I'm a JS novice and learning by doing.
+A small node.js project that allows to export scans of your [Magic: The Gathering](https://magic.wizards.com) card collection to plain images and a simple and responsive html-site to browse, filter and search for specific cards. One of the goals is, to make it easier to build decks out of your local collection and to keep track of your cards. This is the successor of [mtg-browser](https://github.com/shagu/mtg-browser) and a partial rewrite from [Lua](https://www.lua.org) to [Node.js](https://nodejs.org). Please bear with me, you will see many bad coding habits, I'm a JS novice and learning by doing.
 
 ## Preview
 
-To see the mtg-browser frontend in action, visit the **[MTG Browser Demo Website](https://shagu.github.io/mtg-browser-demo/)**. The page is showcasing an example output of the `make www` command, using a subset of some of my legacy cards, that was then uploaded to GitHub Pages.
+To see the mtg-browser frontend in action, visit the **[MTG Browser Demo Website](https://ultra-kvl.github.io/mtg-browser-demo/)**. The page is showcasing an example output of the `make www` command, using a subset of some of my legacy cards, that was then uploaded to GitHub Pages.
 
 [![preview.jpg](preview.jpg)](https://shagu.github.io/mtg-browser-demo/)
 
